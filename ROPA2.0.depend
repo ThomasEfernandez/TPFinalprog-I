@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1656105378 source:c:\users\thomy\desktop\faculta\c\ropa2.0\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"pila.h"
+
+1490112217 source:c:\users\thomy\desktop\faculta\c\ropa2.0\pila.c
+	"pila.h"
+
+1490112217 c:\users\thomy\desktop\faculta\c\ropa2.0\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1656401280 source:c:\users\thomy\desktop\facultad\c\ropa2.0\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"pila.h"
+
+1490112217 c:\users\thomy\desktop\facultad\c\ropa2.0\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1490112217 source:c:\users\thomy\desktop\facultad\c\ropa2.0\pila.c
+	"pila.h"
+
+1656423893 source:c:\users\thomy\desktop\facultad\c\trabajopracticofinal\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"pila.h"
+
+1490112217 c:\users\thomy\desktop\facultad\c\trabajopracticofinal\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1490112217 source:c:\users\thomy\desktop\facultad\c\trabajopracticofinal\pila.c
+	"pila.h"
+
